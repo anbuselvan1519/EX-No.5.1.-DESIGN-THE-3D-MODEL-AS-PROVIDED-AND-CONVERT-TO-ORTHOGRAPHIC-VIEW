@@ -37,7 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-
+C:\Users\sec\Downloads\rosh_files\rosh,,,,,,,.pdf
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
 
