@@ -1,4 +1,7 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+
+## Name: Anbuselvan S
+## Reg no: 212223240008
 ## DATE:
 
 ## AIM: 
@@ -36,8 +39,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![400195414-0b8dc66d-6eea-4eb9-bead-9edcfd9baadb](https://github.com/user-attachments/assets/effe5724-9bac-4b27-b5b7-3dc69d864def)
 
-![NEW v1_page-0001](https://github.com/anbuselvan1519/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/139841744/5ae6c31b-0021-4415-a236-a97aef61f33a)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
